@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ensure consistent LF line endings for generated and source files
+src/routeTree.gen.ts text eol=lf
